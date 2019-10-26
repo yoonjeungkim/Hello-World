@@ -1,2 +1,2 @@
-# Hello-World
-TEST-CODE
+a = input("your name : ")
+print("hello " + a + "!")
